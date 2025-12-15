@@ -6,11 +6,11 @@
 
 <body>
   <form action="Biodata.php" method="post">
-    <h3>Masukan Nama</h3>
+    <label>Masukan Nama</label><br>
     <input type="text" name="nama"><br>
-    <h3>Masukan Jurusan</h3>
+    <label>Masukan Jurusan</label><br>
     <input type="text" name="jurusan"><br>
-    <h3>Masukan Umur</h3>
+    <label>Masukan Umur</label><br>
     <input type="text" name="umur"><br>
 
     <input type="submit" value="Kirim">
